@@ -1,6 +1,6 @@
 ## Model file and scalar file download url
 
-https://drive.google.com/drive/folders/1iKoVzk_NIA5aQa0utxsyBH_WTA4d-nJV?usp=drive_link
+https://mega.nz/folder/iRJgQLjZ#AnR59FlXSp22bW_TUhA1_g
 
 ## Want to run the project without any fuss (in windows), follow these steps
 
